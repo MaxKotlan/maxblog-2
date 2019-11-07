@@ -73,6 +73,9 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# private stuff
+gmail.sh
+
 # pyenv
 .python-version
 
